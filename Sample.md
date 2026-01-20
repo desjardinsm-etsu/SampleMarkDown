@@ -1,5 +1,5 @@
 # Sample Markdown
 
-## Cheslie this works!
+## Chelsie this works!
 
-# Cheslie is the best!
+# Chelsie is the best!
